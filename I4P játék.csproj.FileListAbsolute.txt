@@ -1,0 +1,6 @@
+C:\Users\oem\Desktop\Kristóf\I4P játék\I4P játék\bin\Debug\I4P játék.exe.config
+C:\Users\oem\Desktop\Kristóf\I4P játék\I4P játék\bin\Debug\I4P játék.exe
+C:\Users\oem\Desktop\Kristóf\I4P játék\I4P játék\bin\Debug\I4P játék.pdb
+C:\Users\oem\Desktop\Kristóf\I4P játék\I4P játék\obj\Debug\I4P játék.csprojAssemblyReference.cache
+C:\Users\oem\Desktop\Kristóf\I4P játék\I4P játék\obj\Debug\I4P játék.exe
+C:\Users\oem\Desktop\Kristóf\I4P játék\I4P játék\obj\Debug\I4P játék.pdb
